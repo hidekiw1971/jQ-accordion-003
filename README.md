@@ -1,7 +1,7 @@
-画像をコピペ
+<img width="1489" alt="image" src="https://user-images.githubusercontent.com/99580997/219845315-3e817708-5246-4acc-bf84-4bbc7371a0a0.png">
 
 # compornent（共通部品）
-- 説明
+- 縦方向のアコーディオン（最初は全て閉じてる。他を開けたら前に開けてるコンテンツは閉じるタイプ。）
 
 # w3c html/css ck
 - confirmed or unconfirmed
